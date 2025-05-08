@@ -1,1 +1,1 @@
-A atividade apresenta um passeio aleatório
+Simula um passeio aleatório unidimencional
